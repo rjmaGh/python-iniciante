@@ -5,6 +5,7 @@ com opções de formas de pagamento e condições.
 
 O objetivo do projeto é praticar lógica de programação, estruturas condicionais
 e interação com o usuário via terminal.
+[Clique aqui para ser direcionado automaticamente para o programa sistema_venda](sistema_venda).
 
 ## 📌 Conceitos utilizados
 - Entrada e saída de dados
