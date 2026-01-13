@@ -5,7 +5,7 @@ durante estudos iniciais na faculdade de Análise e Desenvolvimento de Sistemas
 e cursos introdutórios.
 
 ## 📂 Projetos disponíveis
-- 📁 sistema_venda — Simulação de sistema de venda em Python
+- 📁 [sistema_venda] (vendas_projeto/README.md) Simulação de sistema de venda em Python
 - 📁 (em breve) outros projetos
 
 ## 🎯 Objetivo
